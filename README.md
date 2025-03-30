@@ -61,3 +61,27 @@ Parses ERC-20 `Transfer` logs from the transaction receipt:
 2. **Expand Historical Analysis**  
    Currently, the notebook focuses on analyzing a single block. Extending the analysis to cover multiple blocks over time would allow for more meaningful historical insights, trend analysis, and metric comparisons.
 
+2. **Investigate the following Alchemy Endpoints**  
+
+    eth_getProof - verify wallet balance at given block
+    eth_getTransactionCount - number of transactions sent from and address
+    eth_getUncleByBlockHashAndInde
+    eth_getUncleCountByBlockHash
+    eth_maxPriorityFeePerGas
+    eth_newFilter
+    eth_getFilterChanges
+    eth_getFilterLogs
+    eth_newBlockFilter
+    eth_newPendingTransactionFilter
+    eth_uninstallFilter
+    eth_getLogs
+    eth_getBalance
+    eth_feeHistory
+    eth_estimateGas
+    eth_getStorageAt
+    Alchemy_getAssetTransfers
+    alchemy_getTokenBalances
+    Event Listeners
+
+
+
