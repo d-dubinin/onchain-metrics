@@ -31,6 +31,7 @@ In this notebook we compute the basic metrics of bitcoin blockchain. In particul
     - Get the exact number of active addresses
     - Clusters of addresses
     - Economic volume of BTC
+    - Expand the analysis for all blocks
    
 
 
